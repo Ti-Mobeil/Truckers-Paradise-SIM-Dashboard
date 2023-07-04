@@ -5,15 +5,15 @@
 It give different ways to get my [SIM DASHBOARD](https://stryder-it.de/simdashboard/) Community Design
 for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
 
-**[1]** 
+**[1]** You can use the QR-Code that you can find in the File QR-CODE.png
 
-**[2]** 
+**[2]** You use the Design Id: **2qid**
 
 
 ## That the Dashboard works propably you have to do some things before
 
 ### INVENTORY KEYBINDS *(Right Now you have to rebind it every time you join the Server)*
-- EATING (TWIX/SNICKERS) **->** F3
+- EATING (TWERKS/SNICKERS) **->** F3
 - DRINKING (WATER) **->** F5
 - CIGARETTE **->** F7
 - COFFEE **->** F9
