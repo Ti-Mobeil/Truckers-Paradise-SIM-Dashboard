@@ -7,7 +7,7 @@ for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
 
 1. You can use the QR-Code that you can find in the File QR-CODE.png
 
-2. You use the Design Id: **2qid**
+2. You use the Design Id: **????**
 
 ---
 
