@@ -1,18 +1,18 @@
 # SIM-DASHBOARDS
 
-**__SIM DASHBOARD__**
+## SIM DASHBOARD
 
 It give different ways to get my [SIM DASHBOARD](https://stryder-it.de/simdashboard/) Community Design
 for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
 
-[1] 
+**[1]** 
 
-[2]
+**[2]** 
 
 
-That the Dashboard works propably you have to do some things before
+## That the Dashboard works propably you have to do some things before
 
-__INVENTORY KEYBINDS *(Right Now you have to rebind it every time you join the Server)*__
+### INVENTORY KEYBINDS *(Right Now you have to rebind it every time you join the Server)*
 - EATING (TWIX/SNICKERS) **->** F3
 - DRINKING (WATER) **->** F5
 - CIGARETTE **->** F7
