@@ -19,16 +19,14 @@ for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
 - CIGARETTE **->** F7
 - COFFEE **->** F9
 
-TIPPS & TRICKS
-
-if the notify message annoys you, you can do the following:
+TIPPS & TRICKS:
+If the notify messages annoys you, you can do the following:
 - Press **Esc** and enter **Keybinds** Menu
 - and **DEL**ete the Keys in **PRIMARY** for the following entries:
   - `(qb-commandbinding) BIND 2`
   - `(qb-commandbinding) BIND 3`
   - `(qb-commandbinding) BIND 5` 
   - `(qb-commandbinding) BIND 6` 
-
 
 ### KEYBIND CHANGES
 - Press **Esc** and enter **Keybinds** Menu
