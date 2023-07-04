@@ -1,6 +1,6 @@
 # SIM-DASHBOARDS
 
-## SIM DASHBOARD
+## STEP 1: HOW TO GET MY DASHBOARD
 
 It give different ways to get my [SIM DASHBOARD](https://stryder-it.de/simdashboard/) Community Design
 for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
@@ -10,7 +10,9 @@ for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
 **[2]** You use the Design Id: **2qid**
 
 
-## That the Dashboard works propably you have to do some things before
+
+
+## STEP 2. TO GET THE DASHBOARD WORK PROPABLY YOU HAVE TO DO SOME THINGS BEFORE:
 
 ### INVENTORY KEYBINDS *(Right Now you have to rebind it every time you join the Server)*
 - EATING (TWERKS/SNICKERS) **->** F3
@@ -18,6 +20,7 @@ for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
 - CIGARETTE **->** F7
 - COFFEE **->** F9
 
+### TIPPS & TRICKS
 if the notify message annoys you, you can do the following:
 
 - Press **Esc** and enter **Keybinds** Menu
@@ -29,5 +32,5 @@ if the notify message annoys you, you can do the following:
   - (qb-commandbinding) **BIND 6** 
 
 
-__KEYBIND CHANGES__
+\_KEYBIND CHANGES\_
 (EmergencyVehicleCreator) **EVC - Lights** = **HOME/POS1**
