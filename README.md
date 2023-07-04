@@ -11,7 +11,7 @@ for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
 
 ---
 
-## STEP 2. TO GET THE DASHBOARD WORK PROPABLY YOU HAVE TO DO SOME THINGS BEFORE:
+## STEP 2. IN ORDER FOR TJE DASHBOARD TO WORK PROPERLY, YOU NEED TO DO A FEW THINGS BEFOREHAND:
 
 ### INVENTORY KEYBINDS *(Right Now you have to rebind it every time you join the Server)*
 - EATING (TWERKS/SNICKERS) **->** F3
@@ -19,7 +19,7 @@ for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
 - CIGARETTE **->** F7
 - COFFEE **->** F9
 
-TIPPS & TRICKS:
+TIPPS & TRICKS:&nbsp;
 If the notify messages annoys you, you can do the following:
 - Press **Esc** and enter **Keybinds** Menu
 - and **DEL**ete the Keys in **PRIMARY** for the following entries:
@@ -30,4 +30,5 @@ If the notify messages annoys you, you can do the following:
 
 ### KEYBIND CHANGES
 - Press **Esc** and enter **Keybinds** Menu
-- Change the Key for the line `(EmergencyVehicleCreator) EVC - Lights` to **HOME/POS1**
+  - Change the Key for the line `(EmergencyVehicleCreator) EVC - Lights` to **HOME/POS1**
+  - Change the Key for the line `(trucking_tweaks) Car Ignition` to **G**
