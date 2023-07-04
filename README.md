@@ -32,3 +32,7 @@ If the notify messages annoys you, you can do the following:
 - Press **Esc** and enter **Keybinds** Menu
   - Change the Key for the line `(EmergencyVehicleCreator) EVC - Lights` to **HOME/POS1**
   - Change the Key for the line `(trucking_tweaks) Car Ignition` to **G**
+
+### MAKE A KEYBIND
+- Press F8 (The console will open)
+- type the following into the console: `bind keyboard p park`
