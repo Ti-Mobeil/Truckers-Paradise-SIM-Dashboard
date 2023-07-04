@@ -2,8 +2,12 @@
 
 **__SIM DASHBOARD__**
 
-**(1)** It give different ways to get my [SIM DASHBOARD](https://stryder-it.de/simdashboard/) Community Design for the FiveM Server **Truckers Paradise**?
+It give different ways to get my [SIM DASHBOARD](https://stryder-it.de/simdashboard/) Community Design
+for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
 
+[1] 
+
+[2]
 
 
 That the Dashboard works propably you have to do some things before
