@@ -15,9 +15,9 @@ for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ).
 It give different ways to get my [SIM DASHBOARD](https://stryder-it.de/simdashboard/) Community Design
 for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
 
-1. You can use the QR-Code that you can find in the File QR-CODE.png *(comming soon)*
+1. You can use the QR-Code that you can find in the File QR-CODE.png
 
-2. You use the Design Id: **????** *(comming soon)*
+2. You use the Design Id: **2qid**
 
 
 
