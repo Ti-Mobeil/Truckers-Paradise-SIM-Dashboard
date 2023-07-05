@@ -1,7 +1,7 @@
 # SIM-DASHBOARDS
 
 Eine Button Box mit den wichtigsten Tasten auf einem Blick
-für den FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ).
+für den FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ). 
 
 A button box with the most important buttons at a glance
 for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ).
