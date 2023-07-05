@@ -22,7 +22,7 @@ for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ)?
 
 2. You use the Design Id: **2qid**
 
-3. Or you use the [**SIM Dashboard Community Page**]([https://discord.gg/4KEZ5EfShJ](https://www.stryder-it.de/simdashboard/designs/view?id=2qid&lang=en_US))? to get the QR-Code/Code:
+3. Or you use the [**SIM Dashboard Community Page**](https://www.stryder-it.de/simdashboard/designs/view?id=2qid&lang=en_US) to get the QR-Code/Code:
 
 
 ## STEP 2. IN ORDER FOR THE DASHBOARD TO WORK PROPERLY, YOU NEED TO DO A FEW THINGS BEFOREHAND:
