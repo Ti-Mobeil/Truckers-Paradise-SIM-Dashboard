@@ -6,7 +6,10 @@ für den FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ).
 A button box with the most important buttons at a glance
 for the FiveM Server [**Truckers Paradise**](https://discord.gg/4KEZ5EfShJ).
 
+![Screenshot](https://github.com/Ti-Mobeil/Truckers-Paradise-SIM-Dashboard/assets/8138954/338611ba-2a50-456a-a39c-4e8b37958ee2)
+
 ---
+
 
 # INSTALL INSTRUCTIONS (ENGL.)
 
